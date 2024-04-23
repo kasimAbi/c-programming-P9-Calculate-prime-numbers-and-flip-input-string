@@ -1,0 +1,3 @@
+wenn kein leerzeichen
+die array stelle hinzufügen
+wenn leertaste, index++ und leertaste hinzufügen
